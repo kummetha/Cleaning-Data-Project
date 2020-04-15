@@ -50,15 +50,15 @@ The measurements are classified in two domains:
 
 - Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
 
-	- `timeDomainBodyAccelerometerStandardDeviationX`
-	- `timeDomainBodyAccelerometerStandardDeviationY`
-	- `timeDomainBodyAccelerometerStandardDeviationZ`
+	- `TimeDomainBodyAccelerometerStandardDeviationX`
+	- `TimeDomainBodyAccelerometerStandardDeviationY`
+	- `TimeDomainBodyAccelerometerStandardDeviationZ`
 
 - Average time-domain gravity acceleration in the X, Y and Z directions:
 
-	- `timeDomainGravityAccelerometerMeanX`
-	- `timeDomainGravityAccelerometerMeanY`
-	- `timeDomainGravityAccelerometerMeanZ`
+	- `TimeDomainGravityAccelerometerMeanX`
+	- `TimeDomainGravityAccelerometerMeanY`
+	- `TimeDomainGravityAccelerometerMeanZ`
 
 - Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
 
