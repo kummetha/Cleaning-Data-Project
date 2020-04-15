@@ -20,4 +20,4 @@ The script doesn't download the source dataset. I made the assumption that the s
 - Appropriately label the data set with descriptive variable names (In the script, *SetVariablenames* function performs the above task).
 - Create a second, independent tidy set with the average of each variable for each activity and each subject and write the data set to the `TidyDataset.txt` file (In the script, *MeanOfGroupedCols* function performs this task).
 
-The `tidy_data.txt` in this repository was created by running the `run_analysis.R` script using R
+The `TidyDataset.txt` in this repository was created by running the `run_analysis.R` script using R
